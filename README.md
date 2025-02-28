@@ -107,10 +107,11 @@ Created an end-to-end analysis pipeline combining SQL for data extraction and Py
 ## 💼 Connect with Me  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/aryan-kumar29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/aryankumar120" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="40" width="40" /></a>
-<a href="https://medium.com/@aryannkr120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/aryannkr120" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/krish-jain-2b7557245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/krishjain9495" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="40" width="40" /></a>
+<!-- <a href="https://medium.com/@aryannkr120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" /></a>
+-->
+<a href="https://leetcode.com/u/krishjain786786/" target="blank"><img align="center" src="<a href="https://iconscout.com/icons/leetcode" class="text-underline font-size-sm" target="_blank">Leetcode</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>" alt="LeetCode" height="40" width="40" /></a>
 </p>
 
 ---
