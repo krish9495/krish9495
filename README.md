@@ -8,6 +8,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/krish9495/krish9495/main/img.png" width="200"/>
+<img src="https://raw.githubusercontent.com/krish9495/krish9495/main/img.png"/>
 
 </div>
